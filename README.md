@@ -2,7 +2,7 @@
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN)
 
-## Resumo do projeto
+## Resumo do projeto:
 
 Projeto de API REST para prática de JavaScript.
 Livraria com sistema de cadastro e manejo de livros, autores e editoras.
